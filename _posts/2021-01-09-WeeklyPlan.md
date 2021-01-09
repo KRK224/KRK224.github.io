@@ -26,8 +26,6 @@ tags: [2021년 1월, 주간목표]
 [what is Git?](https://krk224.github.io/posts/what-is-Git/)
 
 #### 5. 평일 6시 기상
-![wakeup](/assets/img/post/202101/wakeup.jpg){: width="300" .normal}
+![wakeup](/assets/img/post/202101/wakeup.jpg){: width="500" .normal}
 #### 6. 10층 계단 오르기 - 주 5회
-![stair](/assets/img/post/202101/stair.jpg){: width="350" .normal}
-
-#### commit test
+![stair](/assets/img/post/202101/stair.jpg){: width="500" .normal}
