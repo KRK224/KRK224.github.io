@@ -8,10 +8,9 @@ tags: [2021년 1월, Git]
 
 _Github와 Github blog를 제작하며 공부한 Git 내용을 정리할 예정입니다. 주 reference site는_ `https://git-scm.com/book/ko/v2`_입니다._  
 
-## Git 시작하기
 ---
 
-###__버전 관리란?__
+### Git 시작하기- 버전 관리란?
 버전 관리 시스템(VCS - Version Control System)은 파일 변화를 시간에 따라 기록했다가 나중에 특정 시점의 버전을 다시 꺼내올 수 있는 시스템.
 
 
