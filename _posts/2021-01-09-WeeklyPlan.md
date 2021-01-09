@@ -29,3 +29,5 @@ tags: [2021년 1월, 주간목표]
 ![wakeup](/assets/img/post/202101/wakeup.jpg){: width="300" .normal}
 #### 6. 10층 계단 오르기 - 주 5회
 ![stair](/assets/img/post/202101/stair.jpg){: width="350" .normal}
+
+#### commit test
