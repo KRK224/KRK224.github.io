@@ -17,14 +17,15 @@ tags: [2021년 1월, 주간목표]
 
 #### 3. 자바의 정석 - Chapter2까지
 
-<img src = "/assets/img/post/202101/20210107.png" width="200" height = "300" />
-<img src = "/assets/img/post/202101/20210107_2.png" width="200" height = "300" />
-<img src = "/assets/img/post/202101/20210107_3.png" width="200" height = "300" />
-<img src = "/assets/img/post/202101/20210109.png" width="200" height = "300" />
+![2021-01-07](/assets/img/post/202101/20210107.png){: width="300" height="400" .normal}
+![2021-01-07](/assets/img/post/202101/20210107_2.png){: width="300" height="400" .normal}
+![2021-01-07](/assets/img/post/202101/20210107_3.png){: width="300" height="400" .normal}
+![2021-01-07](/assets/img/post/202101/20210109.png){: width="300" height="400" .normal}
 
 #### 4. git 공부내역 정리하기 <br>
 [what is Git?](https://krk224.github.io/posts/what-is-Git/)
+
 #### 5. 평일 6시 기상
-![wakeup](/assets/img/post/202101/wakeup.jpg){: width = "50" height = "100"}
+![wakeup](/assets/img/post/202101/wakeup.jpg){: width="300" .normal}
 #### 6. 10층 계단 오르기 - 주 5회
-![wakeup](/assets/img/post/202101/stair.jpg){: width = "50" height = "100"}
+![stair](/assets/img/post/202101/stair.jpg){: width="350" .normal}
