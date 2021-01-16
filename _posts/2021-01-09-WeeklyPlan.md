@@ -1,5 +1,5 @@
 ---
-title: '[주간목표] 2021년 1월 첫째주'
+title: '[주간목표] 2021년 1월 첫째 주'
 author: KRyun
 date: 2021-01-09 11:30:00 +0900
 categories: [Records, 주간목표]
