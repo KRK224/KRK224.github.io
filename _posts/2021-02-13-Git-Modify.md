@@ -22,13 +22,13 @@ _Github와 Github blog를 제작하며 공부한 Git 내용을 정리하는 Post
 
 워킹 디렉토리(로컬 폴더에서 보이는 상태)의 모든 파일은 크게 __Tracked__(관리대상)와 __Untracked__(관리대상 아님)으로 나뉩니다. (벌써 여러 번 반복했지만 중요하니 한번 더 하겠습니다.)   
 
-Tracked 파일은 이미 Git 저장소의 스냅샷에 포함(Commit 된 상태)되어있는 파일입니다.   
++ Tracked 파일은 이미 Git 저장소의 스냅샷에 포함(Commit 된 상태)되어있는 파일입니다.   
 
-Commit 이후에 모든 Tracked 파일은 __Unmodified__ 상태에 있다가 수정이 된 순간 __Modified__ 상태로 변하게 됩니다.   
++ Commit 이후에 모든 Tracked 파일은 __Unmodified__ 상태에 있다가 수정이 된 순간 __Modified__ 상태로 변하게 됩니다.   
 
-추적 및 관리 대상이 아닌 __Untracked__ 파일은 `git add` 명령을 통해 __Staging Area__ 에 올리고 다음 Commit으로 Git 저장소에 저장할 수 있습니다.   
++ 추적 및 관리 대상이 아닌 __Untracked__ 파일은 `git add` 명령을 통해 __Staging Area__ 에 올리고 다음 Commit으로 Git 저장소에 저장할 수 있습니다.   
 
-참고로, __Modified 상태의 Tracked 파일들__ 또한 `git add` 명령을 통해 __Staging Area__ 올린 후 Commit 해야합니다.   
++ __Modified 상태의 Tracked 파일들__ 또한 `git add` 명령을 통해 __Staging Area__ 올린 후 Commit 해야합니다.   
 
 ![파일의 라이프 사이클](https://git-scm.com/book/en/v2/images/lifecycle.png)
 
