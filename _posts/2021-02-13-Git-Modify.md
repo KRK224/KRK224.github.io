@@ -31,7 +31,7 @@ Commit 이후에 모든 Tracked 파일은 __Unmodified__ 상태에 있다가 수
 참고로, Modified 상태의 Tracked 파일들 또한 `git add` 명령을 통해 __Staging Area__ 올린 후 Commit 해야합니다.
 
 ![파일의 라이프 사이클](https://git-scm.com/book/en/v2/images/lifecycle.png)
-__<파일의 라이프 사이클>__
+__파일의 라이프 사이클__
 
 
 #### 파일의 상태 확인하기.
