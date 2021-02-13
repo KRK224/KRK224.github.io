@@ -47,13 +47,13 @@ $ git add .
 
 `git add` 명령어를 입력하면 Untracked 파일들을 __Staging Area__ 에 추가할 수 있습니다. 그리고 `git add . ` 명령은 모든 Untracked 파일들을 추가할 수 있어요.
 
-이제 추적 상태의 파일들을 `.git` 저장소에 올리려면,
+이제 추적 상태의 파일들을 `.git` 저장소에 올리려면 `git commit`이란 명령을 사용합니다.
 
 ```
 $ git commit -m "my first commit"
 ```
 
-여기서 `-m "commit message"`는 생략 가능한데, 생략하면 자동으로 등록된 편집기(저는 `Notepad++`였죠)가 실행되어 메세지를 입력할 수 있습니다.   
+여기서 `-m "commit message"`는 commit 내용에 대한 설명을 저장할 수 있습니다 (협업 시에 수정 내용을 저장해야 동료들이 이해하겠죠). 이 명령을 생략하면 자동으로 등록된 편집기(저는 `Notepad++`였죠)가 실행되어 메세지를 입력할 수 있습니다.   
 
 #### __2. 기존 저장소 Clone 하기__
 
