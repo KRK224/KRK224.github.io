@@ -149,7 +149,7 @@ Changes not staged for commit:
 
 CONTRIBUTING.md 파일의 상태가 __Staged인 동시에 Unstaged (Modified)__ 임을 확인할 수 있습니다... 여기서 Commit을 하면 __마지막 수정 상태(Modified 상태, 워킹 디렉토리에서 실제로 보이는 상태)가 아닌(!!), Staging Area에 올린 상태__ 만이 Git 저장소에 저장됩니다.   
 
-#### __파일 상태를 짤막하게 확인하기
+#### __파일 상태를 짤막하게 확인하기__
 
 `git status -s` 또는 `git status --short`명령어는 `git status`명령으로 확인할 수 있는 내용을 간략하게 보여줍니다.
 
@@ -162,13 +162,17 @@ A  lib/git.rb
 M  lib/simplegit.rb
 ?? LICENSE.txt
 ```
-|Staged|Working Tree| Status|
-|:---:|:---:|:----|
-|A||Staged 상태에 새로 추가한 파일 (Untracked => __Staged__)|
-|M||기존의 Tracked 파일을 staged 상태로 올림 (Modified => __Staged__)|
-||M|__Modified__ |
-|M|M| __Staged__인 동시에 __Modified__|
-|?|?|__Untracked__|
+
+| Staged      | Working Tree | Status                                                         |
+|:-----------:|:------------:|:---------------------------------------------------------------|
+|A            |              |Staged 상태에 새로 추가한 파일 (Untracked => __Staged__ )         |
+|M            |              |기존의 Tracked 파일을 staged 상태로 올림 (Modified => __Staged__) |
+|             |M             | __Modified__                                                   |
+|M            |M             | __Staged__ 인 동시에 __Modified__                               |
+|?            |?             | __Untracked__                                                  |
+
+
+
 
 ---
 
