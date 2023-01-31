@@ -76,7 +76,7 @@ $ git clone https://github.com/username/repository "my-project2"
 ```
 
 + Github에서 repository url 찾기   
-![github_repository](/assets/img/post/202102/20210205_Git_repository_1.png)
+![github_repository](/assets/img/post/Git/202102/20210205_Git_repository_1.png)
 
 ---
 

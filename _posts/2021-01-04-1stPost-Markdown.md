@@ -161,7 +161,7 @@ __볼드로 진하게 만들다가 *이탤릭으로 기울이고* 다시 볼드�
 <img src="https://theorydb.github.io/assets/img/think/2019-06-25-think-future-ai-1.png" width="300" height="200">{: .normal}
 
 유형3(이미지 삽입 후, `링크 걸기`):  
-[![이미지](https://raw.githubusercontent.com/KRK224/KRK224.github.io/master/assets/img/post/202101/honeyBadger.gif)](https://youtu.be/TMNvSkufi0Y "벌꿀 오소리에 천적이란 없다!")
+[![이미지](https://raw.githubusercontent.com/KRK224/KRK224.github.io/master/assets/img/post/Common/202101/honeyBadger.gif)](https://youtu.be/TMNvSkufi0Y "벌꿀 오소리에 천적이란 없다!")
 
 ---
 
