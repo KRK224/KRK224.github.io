@@ -1,6 +1,6 @@
 ---
 title: '[Jekyll Blog] 마크다운(Markdown) 사용법 및 예제'
-author: KRyun
+author: krk224
 date: 2021-01-04 21:44:04 +0900
 categories: [Jekyll_Blog, Tutorial]
 tags: [2021년 1월, Markdown]

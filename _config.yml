@@ -86,7 +86,7 @@ avatar: "/assets/img/avatar/avatar.jpg"
 toc: true
 
 comments:
-  active: 'disqus'
+  active:
   # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
   # The active options are as follows:
   disqus:

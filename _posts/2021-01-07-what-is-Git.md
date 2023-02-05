@@ -1,6 +1,6 @@
 ---
 title: '[Git] Git 시작하기 (1) - 버전 관리란?'
-author: KRyun
+author: krk224
 date: 2021-01-07 22:00:00 +0900
 categories: [Developing, Git]
 tags: [2021년 1월, Git]

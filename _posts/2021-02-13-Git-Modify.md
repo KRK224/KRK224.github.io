@@ -1,6 +1,6 @@
 ---
 title: '[Git] Git의 기초 (2) - 수정하고 저장소에 저장하기'
-author: KRyun
+author: krk224
 date: 2021-02-13 11:10:00 +0900
 categories: [Developing, Git]
 tags: [2021년 2월, Git]

@@ -1,6 +1,6 @@
 ---
 title: '[Git] Git의 기초 (1) - Git 저장소 만들기'
-author: KRyun
+author: krk224
 date: 2021-02-05 22:10:00 +0900
 categories: [Developing, Git]
 tags: [2021년 2월, Git]
